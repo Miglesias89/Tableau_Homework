@@ -1,0 +1,10 @@
+Some observations noticed in the data was that age groups 16-20 took longer trips but not as often as 31-40 yr olds. The data seemed to indicated that
+16-20 year olds really didn't take that many trips throughout the months evaluated. This could indicate there is an issue in the data, or I manipulated
+it wrong. Prior to the lockdown beginning in March 2020, there were two distinct hours of high traffic: 8 AM, 5PM, and 6PM. This makes sense because at 
+8 AM people are usually heading into work, while people head home between 5 and 6 PM. Prior to the lockdown Grove St. PATH had higher bike trips starting 
+from the station. This is most likely due because it connects Jersey City to Manhattan and the station is used by commuters heading to and from work. 
+Following the lockdown in March 2020 up until June 2020, the number of bike trips starting from Grove St. PATH decreased with an increase noticed in Liberty 
+Light Rail and Newport Pkwy. The hours of higher traffic also decreased to just 6 PM due to people not having to commute to work given the new workplace 
+restrictions. An increase in bike trips at 6 PM could be people trying to enjoy the outdoor following a day of work. Data also showed that males seemed to 
+use the bikes more often than females, and that did not change pre or post lockdown. However, the number of trips taken by females did increase following the 
+lockdown to June 2020. 
